@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Bloodsmpfun-gg.aternos.me",
+    "port":34379,
     "version": "1.21.1"
   },
   "position": {
